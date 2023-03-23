@@ -13,7 +13,7 @@ Hi 😀 Welcome to Cyber Tower Defense.
 
 Cyber Tower Defense 🗼 is an awesome tower defense game where players plan the defenses so they can make sure that they are being protected against different types of cyber threats 👾.
 
-The attack will be series of questions and each question will either repair or damage the tower's health bar. Players who defend their tower successfully will take control the node. In opposite side, players who fail to defend their tower will lose control and go to the different node.
+The attack will be series of questions and each question will either repair or damage the tower's health bar 💜. Players who defend their tower successfully will take control the node. In opposite side, players who fail to defend their tower will lose control and go to the different node.
 
 There will be different levels of difficulty ⏫. t differentiated by the type of security attacks or add more questions from different types of attacks. Each node will become increasingly harder to complete and players will get more challenging against the advanced cyber attacks.
 
