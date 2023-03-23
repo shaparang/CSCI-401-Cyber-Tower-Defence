@@ -1,14 +1,14 @@
-# CSCI-401-Cyber-Tower-Defence
+# CSCI 401 Cyber Tower Defense 🗼
 
 Hi 😀 Welcome to Cyber Tower Defense.
 
-## About this project
-This is a project for :
+*A fun cybersecurity game where you will be tasked to defend against cyber attacks by placing towers or any defensive measures.*
 
-CSCI 401 :
-Capstone Experience in Digital Forensics Cybersecurity II
+## About The Game 🎮
 
-John Jay College of Criminal Justice
+Cyber Tower Defense 🗼 is an awesome tower defense game where you use towers to defend against the viruses 👾.
+
+
 
 ## Goal
 This project aims to be a Cybersecurity tower defense like game to educate people on 
