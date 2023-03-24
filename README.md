@@ -35,7 +35,7 @@ This project aims to be a Cybersecurity tower defense like game to educate peopl
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/97361423/227592210-32bc8cec-c506-4d83-a656-315849cbc360.png" width=200>
-<img src="https://user-images.githubusercontent.com/97361423/227592448-334ea335-a804-497a-9551-da1f9ad7f01c.png" width=200>
+ <img src="https://user-images.githubusercontent.com/97361423/227592448-334ea335-a804-497a-9551-da1f9ad7f01c.png" width=200>
 
 - **Python** - Our team
 
