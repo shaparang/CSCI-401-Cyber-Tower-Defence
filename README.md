@@ -24,6 +24,8 @@ This project aims to be a Cybersecurity tower defense like game to educate peopl
 
 
 
+<img src="https://user-images.githubusercontent.com/97361423/227585316-bf20b3e8-c63e-454c-95e2-9e1320696fb0.gif" width=300>
+
 ## :gear: Technologies
 
 - **Python** - Our team
