@@ -20,8 +20,9 @@ There will be different levels of difficulty ⏫. t differentiated by the type o
 There are single player and multiplayer 😎. Single player fights against AI by taking nodes as much as possible without failing or else player will have to try a different node. Multiplayer is the players who try to take over open nodes, whoever succeeds will be able to take the node.
 
 ## :star: Goal
-This project aims to be a Cybersecurity tower defense like game to educate people on 
-cybersecurity topics in a game like format. 
+This project aims to be a Cybersecurity tower defense like game to educate people on cybersecurity topics in a game like format. 
+
+
 
 ## :gear: Technologies
 
