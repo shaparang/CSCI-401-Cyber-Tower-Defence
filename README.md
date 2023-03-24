@@ -26,10 +26,9 @@ This project aims to be a Cybersecurity tower defense like game to educate peopl
 
 ## :robot: Role
 
-<img src="https://user-images.githubusercontent.com/97361423/227585316-bf20b3e8-c63e-454c-95e2-9e1320696fb0.gif" width=200> 
-
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/97361423/227585316-bf20b3e8-c63e-454c-95e2-9e1320696fb0.gif" width=200> 
 <img src="https://user-images.githubusercontent.com/97361423/227586657-89d25953-c5be-4e74-bf93-ee13346312dd.gif" width=200> 
-
 <img src="https://user-images.githubusercontent.com/97361423/227587192-4fc9f4cb-b921-4244-9e29-b2e0f152adee.gif" width=200> 
 
 ## :gear: Technologies
