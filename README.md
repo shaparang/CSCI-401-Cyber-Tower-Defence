@@ -7,6 +7,7 @@ Hi 😀 Welcome to Cyber Tower Defense.
 **Navigate**
 - 🎮 [About The Game](#video_game-about-the-game)
 - ⭐ [Goal](#star-goal)
+- 🤖 [Role](#robot-role)
 - ⚙️ [Technologies](#gear-technologies)
 
 ## :video_game: About The Game
@@ -20,11 +21,16 @@ There will be different levels of difficulty ⏫. t differentiated by the type o
 There are single player and multiplayer 😎. Single player fights against AI by taking nodes as much as possible without failing or else player will have to try a different node. Multiplayer is the players who try to take over open nodes, whoever succeeds will be able to take the node.
 
 ## :star: Goal
+
 This project aims to be a Cybersecurity tower defense like game to educate people on cybersecurity topics in a game like format. 
 
+## :robot: Role
 
+<img src="https://user-images.githubusercontent.com/97361423/227585316-bf20b3e8-c63e-454c-95e2-9e1320696fb0.gif" width=200> 
 
-<img src="https://user-images.githubusercontent.com/97361423/227585316-bf20b3e8-c63e-454c-95e2-9e1320696fb0.gif" width=300>
+<img src="https://user-images.githubusercontent.com/97361423/227586657-89d25953-c5be-4e74-bf93-ee13346312dd.gif" width=200> 
+
+<img src="https://user-images.githubusercontent.com/97361423/227587192-4fc9f4cb-b921-4244-9e29-b2e0f152adee.gif" width=200> 
 
 ## :gear: Technologies
 
