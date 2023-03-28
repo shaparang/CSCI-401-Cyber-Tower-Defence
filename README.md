@@ -43,6 +43,6 @@ This project aims to be a Cybersecurity tower defense like game to educate peopl
   <img src="https://user-images.githubusercontent.com/97361423/227592210-32bc8cec-c506-4d83-a656-315849cbc360.png" width=200>
  <img src="https://user-images.githubusercontent.com/97361423/227593667-68c58c5b-45c0-4208-86ce-bcea7c793fc8.png" width=200>
 
-- **Python** - Our team
+- **Python** - Our team uses this tool to 
 
 - **Pixel Art** - Our team uses this tool to create most of the graphics seen in Cyber Tower Defense.
