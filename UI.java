@@ -7,7 +7,7 @@ import javax.swing.border.Border;
 
 
 
-class IOPanel extends JPanel implements ActionListener{
+class IOPanel extends JPanel implements ActionListener, MouseListener{
 	public static JTextArea output = new JTextArea("", 10, 50);
 	public static JTextField input = new JTextField("");
 	public static JButton enter = new JButton("Enter");
@@ -145,7 +145,10 @@ class IOPanel extends JPanel implements ActionListener{
 		        
 		       switch(choice) {
 		       case 1:
-		    	   
+		    	   node("AV", 1, 20, 20);
+		    	   node("FW", 2, 100, 20);
+		    	   node("IDS", 3, 80, 80);
+		    	   node("V", 4, 150, 150);
 		       }
 			}
 		
@@ -153,6 +156,50 @@ class IOPanel extends JPanel implements ActionListener{
 		
 		}
 	}
+	public void node(String name, int type, int x, int y) {
+		ImageIcon image;
+		JLabel label = new JLabel();
+		switch(type) {
+		case 1:
+			image = new ImageIcon("graphics/Antivirus.gif");
+			break;
+		case 2:
+			image = new ImageIcon("graphics/Firewall.gif");
+			break;
+		case 3:
+			image = new ImageIcon("graphics/IDS.gif");
+			break;
+		case 4:
+			image = new ImageIcon("graphics/Virus.gif");
+			break;
+		default:
+			image = new ImageIcon("graphics/Antivirus.gif");
+		}
+		ImageIcon imageScaled= new ImageIcon(image.getImage().getScaledInstance(60, 60, Image.SCALE_DEFAULT));
+		label.setIcon(imageScaled);
+		
+		Border border = BorderFactory.createBevelBorder(1, new Color(0, 0, 255), new Color(0, 0, 155));
+		label.setBorder(border);
+		
+		Frame.display.add(label);
+		label.setBounds(x, y, 60, 60);
+		label.addMouseListener(this);
+		
+	}
+
+	public void mouseClicked(MouseEvent e) {}
+
+	public void mousePressed(MouseEvent e) {
+		JLabel label = (JLabel)e.getSource();
+		Border border = BorderFactory.createBevelBorder(1, new Color(0, 255, 255), new Color(0, 155, 155));
+		label.setBorder(border);
+	}
+
+	public void mouseReleased(MouseEvent e) {}
+
+	public void mouseEntered(MouseEvent e) {}
+
+	public void mouseExited(MouseEvent e) {}
 }
 
 
@@ -161,11 +208,11 @@ class DisplayPanel extends JPanel {
 	public DisplayPanel() {
 		Border border = BorderFactory.createLoweredBevelBorder();
 		setBorder(border);
-		
 	}
 	public void paintComponent(Graphics g) {
 		super.paintComponent(g);
 	}
+	
 }
 
 
