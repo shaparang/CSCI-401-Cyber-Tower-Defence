@@ -1,6 +1,6 @@
 # CSCI 401 Cyber Tower Defense 🗼
 
-Hi 😀! Welcome to Cyber Tower Defense!
+Hi!😀 Welcome to Cyber Tower Defense!
 
 *A fun cybersecurity game where you will be tasked to defend against cyber-attacks by placing towers or any defensive measures.*
 
