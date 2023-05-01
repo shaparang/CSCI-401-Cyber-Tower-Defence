@@ -1,1 +1,320 @@
+1. The organization that Chris works for has disabled automatic updates. What is the most common reason for disabling automatic updates for organizational systems?
+A. To avoid disruption of the work process for office workers
+B. To prevent security breaches due to malicious patches and updates
+C. To avoid issues with problematic patches and updates
+D. All of the above
+ANSWER: C
 
+2. Which if the following is not a capability provided by S/MIME when it is used to protect attachments for email?
+A. Authentication
+B. Nonrepudiation of the sender
+C. Message integrity
+D. Data security for the email headers
+ANSWER: D
+
+3. What wireless technology is most frequently used for wireless payment solutions?
+A. Cellular
+B. Bluetooth
+C. NFC
+D. USB
+ANSWER: C
+
+4. Which of the following is the least volatile according to the forensic order of volatility?
+A. The system’s routing table
+B. Logs
+C. Temp files
+D. CPU registers
+ANSWER: B
+5. Ed wants to trick a user into connecting to his evil twin access point. What type of attack should he conduct to increase his chances of the user connecting to it?
+A. A disassociation attack
+B. An application denial-of-service attack
+C. A known plain-text attack
+D. A network denial-of- service attack
+ANSWER: A
+
+6. What term is used to describe wireless site surveys that show the relative power of access points on a diagram of the building or facility?
+A. Signal surveys
+B. db map
+C. AP topologies
+D. Heat maps
+ANSWER: D
+
+7. What hardware device is used to create the hardware root of trust for modern desktops and laptops?
+A. System memory
+B. A HSM
+C. The CPU
+D. The TPM
+ANSWER: D
+
+8. Angela wants to prevent users in her organization from changing their passwords repeatedly after they have been changed so that they can reuse their current password. What two password security settings does she need to implement to make this occur?
+A. Set a password history and a minimum password age
+B. Set a password history and a complexity setting
+C. Set a password minimum and maximum age
+D. Set password complexity and maximum age
+ANSWER: A
+
+9. Chris wants to run a RAID that is a mirror of two disks. What RAID level does he need to implement?
+A. 0
+B. 1
+C. 2
+D. 5
+ANSWER: B
+
+10. The power company that Glenn works for builds their distribution nodes into structures that appear to be houses or other buildings appropriate for their neighborhoods. What type of physical security control is this?
+A. A detective control
+B. Industrial camouflage
+C. A DMZ
+D. A corrective control
+ANSWER: B
+
+11. Which of the following is not a common constraint of embedded and specialized systems?
+A. Computational power
+B. Overly complex firewall settings
+C. Lack of network connectivity
+D. Inability to patch
+ANSWER: B
+
+12. Gary is reviewing his system’s SSH logs and sees logins for the user named “Gary” with passwords like: password1, password2… PasswordD. What type of attack has Gary discovered?
+A. A dictionary attack
+B. A rainbow table attack
+C. A pass-the-hash attack
+D. A password spraying attack
+ANSWER: A
+
+13. Kathleen wants to set up a system that allows access into a high-security zone from a low security zone. What type of solution should she configure?
+A. VDI
+B. A container
+C. A DMZ
+D. A jump box
+ANSWER: D
+
+14. Derek’s organization securely shreds all documents before they are disposed of and secures their trash. What information gathering technique are they attempting to prevent?
+A. Shoulder surfing
+B. Pharming
+C. Dumpster diving
+D. Tailgating
+ANSWER: C
+
+15. Jeff is concerned about the effects that a ransomware attack might have on his organization and is designing a backup methodology that would allow the organization to quickly restore data after such an attack. What type of control is Jeff implementing?
+A. Corrective
+B. Preventive
+C. Detective
+D. Deterrent
+ANSWER: A
+
+16. Samantha is investigation a cybersecurity incident where an internal user used his computer to participate in a denial-of-service attack against a third party. What type of policy was most likely violated?
+A. BPA
+B. SLA
+C. AUP
+D. MOU
+ANSWER: C
+
+17. Jean recently completed the user acceptance testing process and is getting her code ready to deploy. What environment should house her code before it is released for use?
+A. Test
+B. Production
+C. Development
+D. Staging
+ANSWER: D
+
+18. Rob is an auditor reviewing the payment process used by a company to issue checks to vendors. He notices that Helen, a staff accountant, is the person responsible for creating new vendors. Norm, another accountant, is responsible for issuing payments to vendors. Helen and Norm are cross-trained to provide backup for each other. What security issue, if any, exists in this situation?
+A. Separation of duties violation
+B. Least privilege violation
+C. Dual control violation
+D. No issue
+ANSWER: A
+
+19. Oren obtained a certificate for his domain covering *.acmewidgets.net. Which one of the following domains would not be covered by this certificate? 
+A. www.acmewidgets.net
+B. acmewidgets.net
+C. test.mail.acmewidgets.net
+D. mobile.acmewidgets.net
+ANSWER: C
+
+20. Which one of the following function calls is closely associated with Linux command injection attacks?
+A. sudo()
+B. system()
+C. mkdir()
+D. root()
+ANSWER: B
+
+21. Richard is sending a message to Grace and would like to apply a digital signature to the message before sending it. What key should he use to create the digital signature?
+A. Richard’s private key
+B. Richard’s public key
+C. Grace’s private key
+D. Grace’s public key
+ANSWER: A
+
+22. What type of cryptographic attack is especially effective against passwords stored in hashed format?
+A. chosen plain text
+B. Key stretching
+C. Downgrade
+D. Rainbow table
+ANSWER: D
+
+23. Vince is conducting a penetration test against an organization and believes that he is able to gain physical access to the organization’s facility. What threat vector dos this access allow him to exploit that would otherwise be unavailable?
+A. Supply chain
+B. Wireless
+C. Cloud
+D. Direct access
+ANSWER: D
+
+24. Gary’s organization is conducting a cybersecurity exercise. Gary is responsible for defending his systems against attack during the test. What role is Gary playing in the exercise?
+A. Blue team
+B. Red team
+C. White team
+D. Purple team
+ANSWER: A
+
+25. Andrew is working with his financial team to purchase a cybersecurity insurance policy to cover the financial impact of a data breach. What type of risk management strategy is he using?
+A. Risk avoidance
+B. Risk transference
+C. Risk acceptance
+D. Risk mitigation
+ANSWER: B
+
+26. Which one of the following virtualization models provides the highest level of efficiency?
+A. Type I hypervisor
+B. Type II hypervisor
+C. Type III hypervisor
+D. Type IV hypervisor
+ANSWER: A
+
+27. Shelly is writing a document that describes the steps that incident response teams will follow upon first notice of a potential incident. What type of document is she creating?
+A. Guideline
+B. Standard
+C. Procedure
+D. Policy
+ANSWER: C
+
+28. Xavier recently ran a port scan of the network used by his children’s school After running the scan, he emailed the school’s IT department and told them that he ran the scan and shared the results to help them improve their security. What term would best classify Xavier’s activity?
+A. Black hat
+B. White hat
+C. Blue hat
+D. Gray hat
+ANSWER: D
+
+29. Matt is updating the organization’s threat assessment process. What category of control is Matt implementing?
+A. Operational
+B. Technical
+C. Corrective
+D. Managerial
+ANSWER: D
+
+30. Jade’s organization recently suffered a security breach that affected stored credit card data. Jade’s primary concern is the fact that the organization is subject to sanctions for violating the provisions of the Payment Card Industry Data Security Standard. What category of risk is concerning Jade?
+A. Strategic
+B. Compliance
+C. Operational
+D. Financial
+ANSWER: B
+
+31. Chris is responding to a security incident that compromised one of his organization’s web servers. He believes that the attackers defaced one or more pages on the website. What cybersecurity objective did this attack violate?
+A. Confidentiality
+B. Nonrepudiation
+C. Integrity
+D. Availability
+ANSWER: C
+
+32. Tonya is concerned about the risk that an attacker will attempt to gain access to her organization’s database server. She is searching for a control that would discourage the attacker from attempting to gain access. What type of security control is she seeking to implement?
+A. Preventive
+B. Detective
+C. Corrective
+D. Deterrent
+ANSWER: D
+
+33. Greg is implementing a data loss prevention system. He would like to ensure that it protects against transmissions of sensitive information by guests on his wireless network. What DLP technology would best meet this goal?
+A. Watermarking
+B. Pattern recognition
+C. Host-based
+D. Network-based
+ANSWER: D
+
+34. What term best describes data that is being sent between two systems over a network connection?
+A. Data at rest
+B. Data in motion
+C. Data in processing
+D. Data in use
+ANSWER: B
+
+35. Tina is tuning her organization’s intrusion prevention system to prevent false positive alerts. What type of control is Tina implementing?
+A. Technical control
+B. Physical control
+C. Managerial control
+D. Operational control
+ANSWER: A 
+
+36. Which one of the following is not a common goal of a cybersecurity attacker?
+A. Disclosure
+B. Denial
+C. Alteration
+D. Allocation
+ANSWER: D
+
+37. Tony is reviewing the status of his organization’s defenses against a breach of their file server. He believes that a compromise of the file server could reveal information that would prevent the company from continuing to do business. What term best describes the risk that Tony is considering?
+A. Strategic
+B. Reputational
+C. Financial
+D. Operational
+ANSWER: A
+
+38. Which one of the following data elements is not commonly associated with identity theft?
+A. Social Security number
+B. Driver’s license number
+C. Frequently flyer number
+D. Passport number
+ANSWER: C
+
+39. What term best describes an organization’s desired security state?
+A. Control objectives
+B. Security priorities
+C. Strategic goals
+D. Best practices
+ANSWER: A
+
+40. What technology uses mathematical algorithms to render information unreadable to those lacking the required key?
+A. Data loss prevention
+B. Data obfuscation
+C. Data minimization
+D. Data encryption
+ANSWER: D
+
+41. Greg recently conducted an assessment of his organization’s security controls and discovered a potential gap: the organization does not use full-disk encryption on laptops. What type of control gap exists in this case?
+A. Detective
+B. Corrective
+C. Deterrent
+D. Preventive
+ANSWER: D
+
+42. What compliance regulation most directly affects the operations of a healthcare provider?
+A. HIPAA
+B. PCI DSS
+C. GLBA
+D. SOX
+ANSWER: A
+
+43. Nolan is writing an after action report on a security breach that took place in his organization. The attackers stole thousands of customer records from the organization’s database. What cybersecurity principle was most impacted in this breach?
+A. Availability
+B. Nonrepudiation
+C. Confidentiality
+D. Integrity
+ANSWER: C
+
+44. Which one of the following objectives is not one of the three main objectives that information security professionals must achieve to protect their organizations against cybersecurity threats?
+A. Integrity
+B. Nonrepudiation
+C. Availability
+D. Confidentiality
+ANSWER: B
+
+45. Which one of the following data protection techniques is reversible when conducted properly?
+A. Tokenization
+B. Masking
+C. Hashing
+D. Shredding
+ANSWER: A
+
+46. Which one of the following statements is not true about compensating controls under PCI DSS?
+A. Controls used to fulfill one PCI DSS requirement may be used to compensate for the absence of a control needed to meet another requirement.
+B. Controls must meet the intent of the original requirement.
+C. Controls must meet the rigor of the original requirement.
+D. Compensating controls must provide a similar level of defense as the original requirement. 
+ANSWER: A
